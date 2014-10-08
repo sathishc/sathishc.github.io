@@ -2,45 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e59381a-d548-4e9b-a06e-be1ed1b5f4e1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/2012-01-09-Uttarakhand-Landscapes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2011/03/21/jquery-adaptive-grails/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2011/11/30/which-technology/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2012/02/12/lean-startup/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2012/03/15/startup-is-searching-for-a-business-model/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2012/03/15/the-best-tech-startup-founder-team-a-hacker-and-a-hustler/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2012/08/08/product-design-and-marketing-based-on-user-behavior/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2012/09/09/making-sense-of-lean-startup-strategies/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2013/08/04/Optimizing-TOC-Privacy-Policy-for-SEO/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2013/08/22/Be-Careful-with-That-FAQ/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2013/10/31/httpinsideintercom-iohow-to-educate-persuade-customers/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2014/03/06/Concurrent-Testing-in-Grails-with-GPars/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2014/06/04/Lean-and-Agile-Development-The-Big-Picture/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2014/07/01/Which-Database/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2014/07/22/Web-Security-with-Grails/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2014/07/30/AngularJS-is-not-just-MVC/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2014/08/05/Why-Develop-T-Shaped-Resources/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/categories/grails/atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/categories/grails/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/posts/2/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/SquarePrismLogo.png" afterPath="$PROJECT_DIR$/public/images/SquarePrismLogo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/SquarePrismLogo.png" afterPath="$PROJECT_DIR$/source/images/SquarePrismLogo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_deploy" afterPath="$PROJECT_DIR$/_deploy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/CNAME" afterPath="$PROJECT_DIR$/public/CNAME" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/CNAME" afterPath="$PROJECT_DIR$/source/CNAME" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/atom.xml" afterPath="$PROJECT_DIR$/public/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/articles/atom.xml" afterPath="$PROJECT_DIR$/public/blog/categories/articles/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/header.html" afterPath="$PROJECT_DIR$/source/_includes/custom/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/about/index.html" afterPath="$PROJECT_DIR$/public/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/2014/09/30/Open-Source-Book-Discovery-App/index.html" afterPath="$PROJECT_DIR$/public/blog/2014/09/30/Open-Source-Book-Discovery-App/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/archives/index.html" afterPath="$PROJECT_DIR$/public/blog/archives/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/categories/articles/index.html" afterPath="$PROJECT_DIR$/public/blog/categories/articles/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/about/index.html" afterPath="$PROJECT_DIR$/source/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/robots.txt" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/stylesheets/screen.css" afterPath="$PROJECT_DIR$/source/stylesheets/screen.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/sitemap.xml" afterPath="$PROJECT_DIR$/public/sitemap.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sathishc.github.io.iws" />
@@ -406,12 +367,17 @@
       <changelist id="9e59381a-d548-4e9b-a06e-be1ed1b5f4e1" name="Default" comment="" />
       <created>1412774667145</created>
       <updated>1412774667145</updated>
-      <workItem from="1412774668521" duration="4793000" />
+      <workItem from="1412774668521" duration="4814000" />
     </task>
+    <task id="LOCAL-00001" summary="Added new post">
+      <created>1412784317581</created>
+      <updated>1412784317581</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4793000" />
+    <option name="totallyTimeSpent" value="4814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="705" extended-state="6" />
@@ -429,6 +395,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -457,6 +424,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Added new post" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new post" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
