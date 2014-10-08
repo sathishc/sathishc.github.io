@@ -1,111 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>My Octopress Blog</title>
-  <meta name="author" content="Your Name">
-
-  
-  <meta name="description" content="I worked on an idea for discovery of books a couple of years ago. The idea was simple - make a catalog of your paper books
-online and tag your &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://yoursite.com">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-
-<script type="text/javascript">var switchTo5x=true;</script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({publisher: "ur-c3075a80-e1-d57c-8f9a-a240a9aae407", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-  
-
-</head>
-
-<body   >
-  <div>
-  <div style="padding-left: 20px;background-color: #ffffff;"><a href="/">
-      <img src="/images/SquarePrismLogo.png" alt="">
-  </a>
-  </div>
-  
-    <h2>A blogging framework for hackers.</h2>
-  
-
-
-</div>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:yoursite.com" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Home</a></li>
-  <li><a href="/blog/archives">Timeline</a></li>
-  <li><a href="/about/">About</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-10-08T18:52:59+05:30</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2014/09/30/Open-Source-Book-Discovery-App/">Open Source Book Discovery App - LocalReads</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2014-09-30T00:00:00+05:30" pubdate data-updated="true"></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>I worked on an idea for discovery of books a couple of years ago. The idea was simple - make a catalog of your paper books
+  <entry>
+    <title type="html"><![CDATA[Open Source Book Discovery App - LocalReads]]></title>
+    <link href="http://yoursite.com/blog/2014/09/30/Open-Source-Book-Discovery-App/"/>
+    <updated>2014-09-30T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2014/09/30/Open-Source-Book-Discovery-App</id>
+    <content type="html"><![CDATA[<p>I worked on an idea for discovery of books a couple of years ago. The idea was simple - make a catalog of your paper books
 online and tag your location to it. Friends and neighbours would then be able to search for a book using the service and
 discover books in your shelf. The service would allow making requests for books and manage subsequent interactions between
 users. I tried developing this concept in residential communities, colleges and online book groups but did not get significant
@@ -121,7 +34,7 @@ open sourced the codebase.</p>
 to build better capabilities and with less code. I have published the app for free on Android platform. You can check it out
 at <a href="https://play.google.com/store/apps/details?id=com.squareprism.localreads.ver1">here</a>. The code is open source and published in github.</p>
 
-<p><img src="/images/localreads-android-page.png" alt="localreads" /></p>
+<p><img src="http://yoursite.com/images/localreads-android-page.png" alt="localreads" /></p>
 
 <p>The android app is developed using the <a href="http://www.ionicframework.com">Ionic-Angular framework</a> that lets you build hybrid
 (html + native) apps. The backend service is implemented as a set of REST apis using <a href="http://www.grails.org">Grails</a> with
@@ -144,42 +57,15 @@ as the normal spring security based authentication relies on sessions to be main
 implemented using <a href="http://grails.org/plugin/spring-websocket">Spring Websockets</a>. Reach out if you are looking for help in these areas.</p>
 
 <p>All of the code is distributed under the Creative Commons License 4.0.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/08/05/Why-Develop-T-Shaped-Resources/">Why Develop T-Shaped Resources for Agile Development</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-08-05T00:00:00+05:30" pubdate data-updated="true"></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>I first came across the concept of the T-shaped resource in Donald G Reinersten&rsquo;s <a href="http://www.leanproductflow.com/">book</a>
+  <entry>
+    <title type="html"><![CDATA[Why Develop T-Shaped Resources for Agile Development]]></title>
+    <link href="http://yoursite.com/blog/2014/08/05/Why-Develop-T-Shaped-Resources/"/>
+    <updated>2014-08-05T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2014/08/05/Why-Develop-T-Shaped-Resources</id>
+    <content type="html"><![CDATA[<p>I first came across the concept of the T-shaped resource in Donald G Reinersten&rsquo;s <a href="http://www.leanproductflow.com/">book</a>
 on Lean Product Development. It is discussed as a principle under the section on applying WIP constraints. The discussions
 revolve around 3 types of individuals with different types of capabilities - experts, generalists and t-shaped resources. The significance
 of this concept struck me later when I started digging into the principles of software <a href="http://kanbanblog.com/explained/">Kanban</a></p>
@@ -192,11 +78,11 @@ from other agile development processes is that when a block is experienced the e
 is where the concept of different types of resources or profiles come into play. The process of addressing a block is explained in
 the following diagrams that I have borrowed from the <a href="http://www.crisp.se/henrik.kniberg/Kanban-vs-Scrum.pdf">Kanban_and_Scrum</a> InfoQ book</p>
 
-<p><img src="/images/Scrum_vs_Kanban1.png" alt="Kanban 1" /></p>
+<p><img src="http://yoursite.com/images/Scrum_vs_Kanban1.png" alt="Kanban 1" /></p>
 
-<p><img src="/images/Scrum_vs_Kanban2.png" alt="Kanban 2" /></p>
+<p><img src="http://yoursite.com/images/Scrum_vs_Kanban2.png" alt="Kanban 2" /></p>
 
-<p><img src="/images/Scrum_vs_Kanban3.png" alt="Kanban 3" /></p>
+<p><img src="http://yoursite.com/images/Scrum_vs_Kanban3.png" alt="Kanban 3" /></p>
 
 <p>All the three types of profiles (I prefer &lsquo;profiles&rsquo; to &lsquo;resources&rsquo;, it sounds more human) can be used to clear blockages in a
 work queue. <strong>Experts</strong> have tremendous solving power to clear up technical bottlenecks. So deploying experts in each step can help
@@ -210,42 +96,15 @@ process steps in a flow. An example would be an expert tester, who can also move
 faces a capacity bottleneck and cannot move a work item forward, this naturally frees up capacity of testers since there are less
 items in their backlog due to upstream WIP constraints. This frees up a T-shaped test resource to easily shift focus to development to clear up
 work items blocked due to lower capacity. As added benefits, such movements also result in improved communication and variety of work.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/07/30/AngularJS-is-not-just-MVC/">AngularJS Is Not Just an MVC Framework</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-07-30T00:00:00+05:30" pubdate data-updated="true"></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Which Javascript MVC framework should I use? AngularJS or KnockoutJS or Ember or &hellip;? This is a very common question that gets asked by
+  <entry>
+    <title type="html"><![CDATA[AngularJS Is Not Just an MVC Framework]]></title>
+    <link href="http://yoursite.com/blog/2014/07/30/AngularJS-is-not-just-MVC/"/>
+    <updated>2014-07-30T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2014/07/30/AngularJS-is-not-just-MVC</id>
+    <content type="html"><![CDATA[<p>Which Javascript MVC framework should I use? AngularJS or KnockoutJS or Ember or &hellip;? This is a very common question that gets asked by
 javascript developers who want to start using MVC in their applications. Most of the answers to such queries
 usually conclude with &lsquo;it depends&rsquo; on what you need. But there is a bigger problem, one with the question
 itself because Angular (and other frameworks like Ember, Backbone) are not just MVC. They are a lot more.</p>
@@ -287,42 +146,15 @@ that fit the bill and Angular may not be the recommended option. But if you have
 requires better organization, testability, extensibility, dependency management, and separation of concerns in the form
 of MVC, then a framework such a Angular is the best bet. Above all in Angular as these larger concerns are part of
 the framework construct, as our code base grows to large sizes, it allows us maintain our sanity !!</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/07/22/Web-Security-with-Grails/">Securing Web Applications With Grails</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-07-22T00:00:00+05:30" pubdate data-updated="true"></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>As web applications become more complex by the day, security becomes an important aspect to consider during development.
+  <entry>
+    <title type="html"><![CDATA[Securing Web Applications With Grails]]></title>
+    <link href="http://yoursite.com/blog/2014/07/22/Web-Security-with-Grails/"/>
+    <updated>2014-07-22T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2014/07/22/Web-Security-with-Grails</id>
+    <content type="html"><![CDATA[<p>As web applications become more complex by the day, security becomes an important aspect to consider during development.
 One way to address the variety of security loopholes in the system is to follow a check-list based approach. Look at the
 top 10 vulnerabilities web apps face today and address each one of these individually. OWASP (The Open Web Application
 Security Project) provides a list of <strong>top 10 security flaws that web applications face <a href="https://www.owasp.org/index.php/Top_10_2013-Top_10">here</a></strong>.
@@ -393,42 +225,15 @@ details of encrypting data, and there’s even a Grails plugin for it: the <a hr
 advantage of by attackers by taking advantage of some XSS exploit. One way to deal with this
 is to use server side redirects which cannot be exploited. Another way to address this specific to
 grails is to use the &lsquo;flash&rsquo; scope.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/07/01/Which-Database/">Which Database?</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-07-01T00:00:00+05:30" pubdate data-updated="true"></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>We have come a long way from the days where database development meant designing relational models  for a database like Oracle or
+  <entry>
+    <title type="html"><![CDATA[Which Database?]]></title>
+    <link href="http://yoursite.com/blog/2014/07/01/Which-Database/"/>
+    <updated>2014-07-01T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2014/07/01/Which-Database</id>
+    <content type="html"><![CDATA[<p>We have come a long way from the days where database development meant designing relational models  for a database like Oracle or
 SQL Server. The last few years have seen a proliferation of databases that are meant to perform very specific tasks.Application
 server middle-ware have also become more flexible and now support multiple data sources instead of having to use just a single DB.</p>
 
@@ -436,7 +241,7 @@ server middle-ware have also become more flexible and now support multiple data 
 appropriately, based on functional or non-functional requirements. Here&rsquo;s a handy map of some of the most popular databases and
 where they would fit into your application architecture.</p>
 
-<p><img src="/images/Which_Database.png" title="Which Database" alt="Which database?" /></p>
+<p><img src="http://yoursite.com/images/Which_Database.png" title="Which Database" alt="Which database?" /></p>
 
 <p>In addition to picking a database based on functional requirements, one may require to access them based on the compromises
 each one makes in terms of supporting <em>consistency</em>, <em>availability</em> and <em>partitioning tolerance</em>. A popular thumb-rule for such
@@ -446,42 +251,15 @@ two. If one of these parameters are important for an architecture, it may be per
 before making a choice.</p>
 
 <p>Want to know more? Check out <a href="http://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1934356921/ref=sr_1_1?ie=UTF8&amp;qid=1404529485&amp;sr=8-1&amp;keywords=seven+databases+in+seven+weeks" title="Seven Databases in Seven Weeks">Seven Databases in Seven Weeks</a></p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/06/04/Lean-and-Agile-Development-The-Big-Picture/">Lean and Agile Development, the Big Picture</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-06-04T00:00:00+05:30" pubdate data-updated="true"></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><div style="text-align: justify;text-justify: inter-word;">
+  <entry>
+    <title type="html"><![CDATA[Lean and Agile Development, the Big Picture]]></title>
+    <link href="http://yoursite.com/blog/2014/06/04/Lean-and-Agile-Development-The-Big-Picture/"/>
+    <updated>2014-06-04T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2014/06/04/Lean-and-Agile-Development-The-Big-Picture</id>
+    <content type="html"><![CDATA[<div style="text-align: justify;text-justify: inter-word;">
 
 <p>
 Lean and Agile Development has been around for many years now and numerous practices have evolved around various phases of software development. There has been a proliferation of consulting services around agile and lean. Fortunately or unfortunately, not many methodologies have evolved - apart from XP and Scrum.
@@ -506,7 +284,7 @@ When we think of the software development process as an entire system, the best 
 </p>
 <p>
 <div align="center">
-    <img src="/images/Lean-Development.png" alt="Lean Development">
+    <img src="http://yoursite.com/images/Lean-Development.png" alt="Lean Development">
 </div>
     </p>
 <p>
@@ -514,42 +292,15 @@ One can thus see how the principles of the agile manifesto directly lead to the 
 software is a paradigm shift in the way we approach software quality. It is no more necessary for working software in production to be perfect from day one, what is more
 important is for the software to be usable and functional, and most importantly to deliver the best information of how it needs to change to meet future requirements !!
 </p>
-</div></div>
+</div>]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/03/06/Concurrent-Testing-in-Grails-with-GPars/">Concurrent Testing in Grails With GPars and Spock</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-03-06T00:00:00+05:30" pubdate data-updated="true"></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Last month I did a major backend refactoring of on of our applications and was feeling happy about how
+  <entry>
+    <title type="html"><![CDATA[Concurrent Testing in Grails With GPars and Spock]]></title>
+    <link href="http://yoursite.com/blog/2014/03/06/Concurrent-Testing-in-Grails-with-GPars/"/>
+    <updated>2014-03-06T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2014/03/06/Concurrent-Testing-in-Grails-with-GPars</id>
+    <content type="html"><![CDATA[<p>Last month I did a major backend refactoring of on of our applications and was feeling happy about how
  much the code has been simplified and easier to understand. All was well until suddenly, we started getting strange
 errors in production. Our set of unit and integration tests had passed and I was quite confident that nothing
 had broken.</p>
@@ -661,84 +412,30 @@ class ParallelXYZGeneratorSpec extends Specification {
     }
 }
 </code></pre>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/10/31/httpinsideintercom-iohow-to-educate-persuade-customers/">An Article From intercom.io - How to Educate and Persuade Your Customers</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-10-31T00:00:00+05:30" pubdate data-updated="true"></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><a href="http://insideintercom.io/how-to-educate-persuade-customers/" title="http://insideintercom.io/how-to-educate-persuade-customers/">
-    <img src="/images/HowCanIGetUsersTo-7401.png" alt="">
+  <entry>
+    <title type="html"><![CDATA[An Article From intercom.io - How to Educate and Persuade Your Customers]]></title>
+    <link href="http://yoursite.com/blog/2013/10/31/httpinsideintercom-iohow-to-educate-persuade-customers/"/>
+    <updated>2013-10-31T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2013/10/31/httpinsideintercom-iohow-to-educate-persuade-customers</id>
+    <content type="html"><![CDATA[<p><a href="http://insideintercom.io/how-to-educate-persuade-customers/" title="http://insideintercom.io/how-to-educate-persuade-customers/">
+    <img src="http://yoursite.com/images/HowCanIGetUsersTo-7401.png" alt="">
 </a></p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/08/22/Be-Careful-with-That-FAQ/">Be Careful With That FAQ</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-08-22T00:00:00+05:30" pubdate data-updated="true"></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><strong>It could kill your SEO rankings</strong></p>
+  <entry>
+    <title type="html"><![CDATA[Be Careful With That FAQ]]></title>
+    <link href="http://yoursite.com/blog/2013/08/22/Be-Careful-with-That-FAQ/"/>
+    <updated>2013-08-22T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2013/08/22/Be-Careful-with-That-FAQ</id>
+    <content type="html"><![CDATA[<p><strong>It could kill your SEO rankings</strong></p>
 
 <p>During the last few weeks we were experimenting with how we can improve our SEO rankings for <a href="https://www.jaatakam.com/">Jaatakam</a>.</p>
 
-<p>We had some pretty basic stuff in our pages as content as far as SEO keywords were concerned. Nothing targeted, but just enough content to inform the user about the website. We had found some pretty good improvement with impressions and views after we <a href="/blog/2013/08/04/Optimizing-TOC-Privacy-Policy-for-SEO">optimized our Terms and Privacy policy pages earlier</a>.</p>
+<p>We had some pretty basic stuff in our pages as content as far as SEO keywords were concerned. Nothing targeted, but just enough content to inform the user about the website. We had found some pretty good improvement with impressions and views after we <a href="http://yoursite.com/blog/2013/08/04/Optimizing-TOC-Privacy-Policy-for-SEO">optimized our Terms and Privacy policy pages earlier</a>.</p>
 
 <p>Having had some decent success, we went about adding more content to our page to have a better coverage of keywords (Yes. we wanted to be ranked better for those top 100 keywords!). Added some interesting questions and answers that were relevant to the site. Created a separate FAQ page. Added the page to the Sitemap. Let Google know about it. And waited.</p>
 
@@ -749,42 +446,15 @@ class ParallelXYZGeneratorSpec extends Specification {
 <p>Lesson learned. Be careful with adding new text content to your site as it could hurt SEO in a big way. One possible solution could be adding the new content to a separate blog page and convert users from that page to your site.</p>
 
 <p>As of now, we have removed the added page and waiting for results. It may be a couple of weeks before we see any change, but we will update here when we see any improvements.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/08/04/Optimizing-TOC-Privacy-Policy-for-SEO/">Optimizing TOC and Privacy Policy for Single Page Apps</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-08-04T00:00:00+05:30" pubdate data-updated="true"></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><strong>One Line Advice = ‘Don’t Include in your Single Page’</strong></p>
+  <entry>
+    <title type="html"><![CDATA[Optimizing TOC and Privacy Policy for Single Page Apps]]></title>
+    <link href="http://yoursite.com/blog/2013/08/04/Optimizing-TOC-Privacy-Policy-for-SEO/"/>
+    <updated>2013-08-04T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2013/08/04/Optimizing-TOC-Privacy-Policy-for-SEO</id>
+    <content type="html"><![CDATA[<p><strong>One Line Advice = ‘Don’t Include in your Single Page’</strong></p>
 
 <p>Single Page Applications written in Javascript are very popular these days. All content loads in a single page and when the user clicks on links they see ‘blazing’ performance since pages don’t load from the server.</p>
 
@@ -796,87 +466,111 @@ class ParallelXYZGeneratorSpec extends Specification {
 
 <p>See below a sample robots.txt on how you should configure your website. Reach out to your webmaster now.</p>
 
-<p><img src="/images/robots_txt.png" alt="Sample Robots Txt" /></p>
-</div>
+<p><img src="http://yoursite.com/images/robots_txt.png" alt="Sample Robots Txt" /></p>
+]]></content>
+  </entry>
   
+  <entry>
+    <title type="html"><![CDATA[Making Sense of Lean Startup Strategies]]></title>
+    <link href="http://yoursite.com/blog/2012/09/09/making-sense-of-lean-startup-strategies/"/>
+    <updated>2012-09-09T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2012/09/09/making-sense-of-lean-startup-strategies</id>
+    <content type="html"><![CDATA[A summary of new lean startup principles and how they relate to each other.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/14221127" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/harihasa/making-senseleanstartups" title="Making Sense of Lean Startup Strategies" target="_blank">Making Sense of Lean Startup Strategies</a> </strong> from <strong><a href="http://www.slideshare.net/harihasa" target="_blank">Sathish Hariharan</a></strong> </div>
+]]></content>
+  </entry>
   
-
-
-    </article>
+  <entry>
+    <title type="html"><![CDATA[Product Design (and Marketing) Based on User Behavior]]></title>
+    <link href="http://yoursite.com/blog/2012/08/08/product-design-and-marketing-based-on-user-behavior/"/>
+    <updated>2012-08-08T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2012/08/08/product-design-and-marketing-based-on-user-behavior</id>
+    <content type="html"><![CDATA[<div style="text-align: justify;text-justify: inter-word;">
+<p><strong><a title="Edit “Product Design (and Marketing) based on user behavior”" href="http://squareprism.wordpress.com/wp-admin/post.php?post=276&amp;action=edit">Product Design (and Marketing) based on user behavior</a></strong></p>
+<p><a title="Behavior By Design Video" href="http://www.nirandfar.com/2012/07/behaviorbydesignvideo.html">An excellent article</a> by Nir Eyal that encourages product developers to build technology based on user behaviors. NIr suggests using a framework called the Desire Engine Canvas to think of how a product can engage users.</p>
+<p>The beauty of the framework is it subtly makes product designers focus on &#8220;marketing&#8221; or &#8220;engaging&#8221; users with product features rather than just providing functionality. Nir recommends that a product user needs to be taken through desire engine cycles to form the habit of using your product.</p>
+<p>The desire engine cycle consists of four simple steps, 1) an internal or external trigger, 2) an action by the user as soon as they use your product, 3) A variable reward for the action performed and 4) a commitment action performed by the user to move them to the next cycle. The hypothesis is that the faster one gets users get through a desire engine cycle and the faster users perform multiple cycles and form a habit. Once a habit is formed users keep coming back to your product or site driven by internal triggers!</p>
+</div>]]></content>
+  </entry>
   
-  <div class="pagination">
-    
-      <a class="prev" href="/posts/2">&larr; Older</a>
-    
-    <a style="padding-left: 50px;" href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
+  <entry>
+    <title type="html"><![CDATA[The Best Tech Startup Founder Team - a Hacker and a Hustler]]></title>
+    <link href="http://yoursite.com/blog/2012/03/15/the-best-tech-startup-founder-team-a-hacker-and-a-hustler/"/>
+    <updated>2012-03-15T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2012/03/15/the-best-tech-startup-founder-team-a-hacker-and-a-hustler</id>
+    <content type="html"><![CDATA[<div style="text-align: justify;text-justify: inter-word;">
+<p><span style="text-decoration:underline;"><strong>The Best Tech startup founder team - A Hacker and a Hustler</strong></span></p>
+<p>A great article from <a href="http://learntoduck.com/category/micah/">Micah </a>on who or what a Hacker/Hustler team is. Check out<a title="Hackers and Hustlers" href="http://learntoduck.com/micah/hackers-hustlers/"> Hacker and Hustlers</a>. This is how he defines hackers and hustlers</p>
+<p><span style="text-decoration:underline;"><strong>Hacker</strong> </span>-  A Hacker is someone who looks the problem, and solves it in a unique and special way. A Hacker finds the process of problem solving exciting and interesting, and spends the majority of their time looking at the problem in multiple ways, finding many potential solutions.</p>
+<p><span style="text-decoration:underline;"><strong>Hustler</strong> </span>- A Hustler on the other other hand is a relationship builder. Someone who can build direct relationships with their customers. They are passion people. They have the ability to articulate their passion clearly and in a way that gets other people equally passionate.</p>
+<p>Something for me to keep coming back to as my search for a hustler (along with <a title="Search versus Execute" href="http://steveblank.com/2012/03/05/search-versus-execute/">searching for a business mode1</a>) continues&#8230;..</p>
+</div>]]></content>
+  </entry>
   
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2014/09/30/Open-Source-Book-Discovery-App/">Open Source Book Discovery App - LocalReads</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/08/05/Why-Develop-T-Shaped-Resources/">Why Develop T-Shaped Resources for Agile Development</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/07/30/AngularJS-is-not-just-MVC/">AngularJS Is Not Just an MVC Framework</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/07/22/Web-Security-with-Grails/">Securing Web Applications With Grails</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/07/01/Which-Database/">Which Database?</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-
-
+  <entry>
+    <title type="html"><![CDATA[Startup Is "Searching for a Business Model"]]></title>
+    <link href="http://yoursite.com/blog/2012/03/15/startup-is-searching-for-a-business-model/"/>
+    <updated>2012-03-15T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2012/03/15/startup-is-searching-for-a-business-model</id>
+    <content type="html"><![CDATA[<div style="text-align: justify;text-justify: inter-word;">
+<p><span style="text-decoration:underline;"><strong>What does a startup do?</strong></span></p>
+<p>&#8220;In a perfect world you build your vision and your customers would run to buy your first product exactly as you spec’d and built it. We now know that this ‘build it and they will come” is a prayer rather than a business strategy.  In reality, a startup is a <a href="http://steveblank.com/2010/01/25/whats-a-startup-first-principles/" target="_blank">temporary </a><a href="http://steveblank.com/2010/01/25/whats-a-startup-first-principles/" target="_blank">organization designed to search for a repeatable and scalable business model</a>. This means the brilliant idea you started with<em>will change </em>as you <em>iterate and <a href="http://steveblank.com/2010/04/12/why-startups-are-agile-and-opportunistic-%E2%80%93-pivoting-the-business-model/" target="_blank">pivot</a></em> your business model until you find product/market fit.&#8221;</p>
+<p>From the Steve Blank article <a title="the startup team" href="http://steveblank.com/2011/12/13/the-startup-team/">the startup team</a></p>
+</div>]]></content>
+  </entry>
   
-</aside>
+  <entry>
+    <title type="html"><![CDATA[Lean Startup]]></title>
+    <link href="http://yoursite.com/blog/2012/02/12/lean-startup/"/>
+    <updated>2012-02-12T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2012/02/12/lean-startup</id>
+    <content type="html"><![CDATA[<p><span style="text-decoration:underline;"><strong>What is a Lean Startup?</strong></span></p>
+<p>If you are wondering what a lean startup is after reading the headline of this website. This is a good set of slides.</p>
 
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2014 - Your Name
-</p>
+<iframe src="//www.slideshare.net/slideshow/embed_code/5771753?rel=0" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/sblank/successful-entrepreneurship-1" title="Successful entrepreneurship 1" target="_blank">Successful entrepreneurship 1</a> </strong> from <strong><a href="http://www.slideshare.net/sblank" target="_blank">steve blank</a></strong> </div>
 
+<div style="padding:5px 0 12px;">View more presentations from <a href="http://www.slideshare.net/sblank" target="_blank">steve blank</a></div>
 
-</footer>
+]]></content>
+  </entry>
   
-
-
-
-
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+  <entry>
+    <title type="html"><![CDATA[Which Technology?]]></title>
+    <link href="http://yoursite.com/blog/2011/11/30/which-technology/"/>
+    <updated>2011-11-30T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2011/11/30/which-technology</id>
+    <content type="html"><![CDATA[<div style="text-align: justify;text-justify: inter-word;">
+<h3>Which server technology/framework should you choose to build your next minimum viable product?</h3>
+<p>When I started out to build MediaNearby, I spent almost 8-10 weeks evaluating the best-fit technology to build a minimum viable solution. My learning? When you start out, have just one criteria - whatever lets you build the core functionality with minimum amount of time. Evaluating for scalability, flexibility, etc is a waste of time. I am documenting my experience so developers with similar background and problem set find this helpful. I am assuming that the front-end technology used would be HTML5 and Javascript.</p>
+<p>I have spent close to 7 years developing java based applications. Hence I am naturally comfortable with this programming language. My requirement was to develop scalable search and cataloging and I did not want to build something from scratch if robust libraries were already available. I wanted to deploy the system on a cloud service provider like Amazon EC2 or Google.</p>
+<p>The problem with being a &#8220;techie&#8221; is when you evaluate a technology you want to dabble around with cool new technologies for as long as possible. Learning a new language is as exciting as buying the next cool gadget. Without a clear objective/criteria one ends up wasting time instead of making progress.</p>
+<p>I started evaluating technologies to build the server side logic around early 2010 . The most popular web 2.0 frameworks were Ruby on Rails and Lift-Scala (Twitter had rewritten their servers in Scala, FourSquare is on Lift-Scala). Node.js was just becoming popular. I briefly looked into Grails as well.</p>
+<p>I spent some time to learn Ruby and Rails trying to understand new constructs like closures, convention over configuration, scaffolding, and so on. One of the challenges with Rails was that the concepts around packaging were very different compared to Java and I could never get my head around how &#8220;gem install&#8221; worked. The other issue with Rails at that time was that it was not easily portable across cloud platforms. Google appengine did not support Ruby and one had to use a JVM (jRuby) to run Rails. jRuby was always a step behind Ruby versions and that did not help. Rails also required one to build C based modules for frameworks like jRuby for which the base modules were not available.</p>
+<p>It soon became apparent that java was a popular ecosystem supported by cloud environments and running a framework based on Java would make life easy. The popular JVM based script languages were Scala and Groovy because of availability of Lift and Grails frameworks respectively. Lift and Scala was being used by Twitter and provided a high-performance ecosystem. So I decided to try out Scala next. Scala as a programming language is easy to understand once you learn Ruby as it has similar constructs. The big challenge was understanding Lift. For someone who has an MVC background, understanding the &#8220;build view first&#8221; and then the rest architecture was extremely difficult to understand. Also, the documentation for Lift mostly focussed on &#8216;Chat&#8217; kind of applications that fit well into the Comet based architecture. Though I gained understanding of how Lift works later, at that time it was a no-go.</p>
+<p>The next natural selection was Groovy and Grails. When I dug deeper into Groovy I was surprised to find how well it integrates with the Java language and also makes use of enterprise grade technologies like Spring and Hibernate under the hood. The big bonus was the ability to use any opensource or commercial libraries that have been developed over the last 15 years. Also the plugin based architecture of Grails made the framework quite extensible and was helping to build an active ecosystem around this framework. SpringSource endorsement of the framework and active participation was another plus.</p>
+<p>The Groovy language constructs are similar to Ruby or Scala, but Groovy also allows one to write java code. Calling a java library and vice-versa is a first-class language feature in Groovy. Features like convention over configuration, scaffolding, templates, partials, tag-libraries, plugins and an MVC architecture at the heart of the framework resonates very well with Java and Spring developers. Deploying a grails application is simply copying a war file to a web servlet container.</p>
+<p>I also realized that ramping up a java developer in Grails would be easier than other frameworks.</p>
+<p>The combination of familiarity with java, convention over configuration, availability of a comprehensive set of libraries, ultimately helped the decision to choose Grails.  For someone with a background in Java and java based open-source technologies, trying to build a minimum-viable-product, I would strongly recommend Grails/Groovy over frameworks like Rails, Django, Lift, Node.js, etc</p>
+</div>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Adaptive Javascript in Grails With JQuery]]></title>
+    <link href="http://yoursite.com/blog/2011/03/21/jquery-adaptive-grails/"/>
+    <updated>2011-03-21T00:00:00+05:30</updated>
+    <id>http://yoursite.com/blog/2011/03/21/jquery-adaptive-grails</id>
+    <content type="html"><![CDATA[<div style="text-align: justify;text-justify: inter-word;">
+<i>This article in now outdated</i>
+<h3>Adaptive Javascript in Grails with JQuery</h3>
+<p>The <a href="http://www.grails.org">Grails</a> framework uses a technology called <a href="http://grails.org/doc/latest/guide/6.%20The%20Web%20Layer.html#6.7 Ajax">Adaptive Javascript</a> that enables easy development of Ajax requests. Developers can code Ajax enabled links and forms using a set of standard grails tags such as &lt;g:remoteLink&gt; or &lt;g:remoteForm&gt; in Groovy server pages and Grails internally generates the required javascript code to send the Ajax requests to servers based on the javascript library configured to work with Grails. Grails uses the <a href="http://www.prototypejs.org/">Prototype</a> library by default and the 1.4 version promises to move to <a href="http://www.jquery.com">jQuery</a> as the standard. The code written is non-obtrusive, i.e. if Javascript is not enabled the forms or links will work as normal html forms or links respectively.</p>
+<p>There is one caveat to using this method though. There are cases where the developer is required to call a custom function based on the result of an Ajax request. The standard documentation states the method signature to be used for such Ajax events of the form <em>&#8220;<span style="color:#222222;font-family:'Courier 10 Pitch', Courier, monospace;"><span style="font-size:15px;line-height:21px;white-space:pre;">onSucess=&#8217;fireMe(e)&#8217;&#8221;</span></span></em></p>
+<p>This is typical to the Prototype library and does not work with jQuery. When using jQuery, the browser will complain about unknown event &#8216;e&#8217;. The way to get this working is to make sure the signature used follows the accepted jQuery standard which is <em>&#8220;onSucess=&#8217;fireMe(data, textStatus)&#8217;&#8221;</em> where data is the response data of the Ajax call and textStatus is the HTTP status of the Ajax request in string form</p>
+<p><strong>Update Nov 2011</strong>: As of Grails 2.0, the default javascript library is JQuery and the Prototype way of adaptive javascript no longer works. Please refer the <a href="http://grails.org/doc/latest/">Grails framework documentation</a>.</p>
+<p><span style="color:#222222;font-family:'Courier 10 Pitch', Courier, monospace;"><span style="font-size:15px;line-height:21px;white-space:pre;"><br />
+</span></span></p>
+</div>]]></content>
+  </entry>
+  
+</feed>
