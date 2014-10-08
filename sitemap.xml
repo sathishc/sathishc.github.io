@@ -10,24 +10,32 @@
     <priority>0.8</priority>
   </url>
   
+  <url>
+    <loc>http://www.sathishh.net/blog/2012/01/09/Uttarakhand-Landscapes/</loc>
+    
+    <lastmod>2012-01-09T00:00:00+05:30</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
   
   <url>
     <loc>http://www.sathishh.net/about/</loc>
-    <lastmod>2014-10-08T19:53:08+05:30</lastmod>
+    <lastmod>2014-10-08T21:24:27+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://www.sathishh.net/blog/archives/</loc>
-    <lastmod>2014-10-08T19:53:08+05:30</lastmod>
+    <lastmod>2014-10-08T21:24:27+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://www.sathishh.net/</loc>
-    <lastmod>2014-10-08T19:53:08+05:30</lastmod>
+    <lastmod>2014-10-08T21:24:27+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
