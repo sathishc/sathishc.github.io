@@ -6,8 +6,8 @@ url: http://www.sathishh.net
 title: Sathish Hariharan's Blog
 subtitle:
 author: Sathish Hariharan
-simple_search: https://www.google.com/search
 description:
+
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -16,8 +16,9 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
-subscribe_email:
+show_feeds: false
+subscribe_rss: false
+subscribe_email: false
 # RSS feeds can list your email address if you like
 email:
 
